@@ -1,0 +1,64 @@
+Start testing: Jun 06 23:34 MSK
+----------------------------------------------------------
+1/4 Testing: ObserverTest
+1/4 Test: ObserverTest
+Command: "/home/danil/domnichds/workspace/projects/rk/build/test_observer"
+Directory: /home/danil/domnichds/workspace/projects/rk/build
+"ObserverTest" start time: Jun 06 23:34 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ObserverTest" end time: Jun 06 23:34 MSK
+"ObserverTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: SubjectTest
+2/4 Test: SubjectTest
+Command: "/home/danil/domnichds/workspace/projects/rk/build/test_subject"
+Directory: /home/danil/domnichds/workspace/projects/rk/build
+"SubjectTest" start time: Jun 06 23:34 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SubjectTest" end time: Jun 06 23:34 MSK
+"SubjectTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: WeatherDataTest
+3/4 Test: WeatherDataTest
+Command: "/home/danil/domnichds/workspace/projects/rk/build/test_weatherdata"
+Directory: /home/danil/domnichds/workspace/projects/rk/build
+"WeatherDataTest" start time: Jun 06 23:34 MSK
+Output:
+----------------------------------------------------------
+test_weatherdata: /home/danil/domnichds/workspace/projects/rk/tests/test_weatherdata.cpp:17: int main(): Assertion `o.t == 4.2 && o.h == 5.1 && o.p == 9.9' failed.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Failed.
+"WeatherDataTest" end time: Jun 06 23:34 MSK
+"WeatherDataTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: DisplayTest
+4/4 Test: DisplayTest
+Command: "/home/danil/domnichds/workspace/projects/rk/build/test_currentconditiondisplay"
+Directory: /home/danil/domnichds/workspace/projects/rk/build
+"DisplayTest" start time: Jun 06 23:34 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DisplayTest" end time: Jun 06 23:34 MSK
+"DisplayTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 06 23:34 MSK

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libweather.a CMakeFiles/weather.dir/src/weatherdata.cpp.o CMakeFiles/weather.dir/src/currentconditiondisplay.cpp.o
+/usr/bin/ranlib libweather.a

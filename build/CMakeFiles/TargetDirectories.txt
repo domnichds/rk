@@ -1,0 +1,15 @@
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/weather.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/weather_app.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/test_observer.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/test_subject.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/test_weatherdata.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/test_currentconditiondisplay.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/package.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/package_source.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/test.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/edit_cache.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/rebuild_cache.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/list_install_components.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/install.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/install/local.dir
+/home/danil/domnichds/workspace/projects/rk/build/CMakeFiles/install/strip.dir

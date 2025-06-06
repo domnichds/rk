@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/weather_app.dir/app/main.cpp.o -o weather_app  libweather.a 

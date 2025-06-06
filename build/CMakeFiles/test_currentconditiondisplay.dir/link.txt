@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_currentconditiondisplay.dir/tests/test_currentconditiondisplay.cpp.o -o test_currentconditiondisplay  libweather.a 
