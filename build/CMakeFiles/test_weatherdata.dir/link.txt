@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/test_weatherdata.dir/tests/test_weatherdata.cpp.o -o test_weatherdata  libweather.a 

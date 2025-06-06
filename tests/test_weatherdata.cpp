@@ -4,9 +4,9 @@
 class TestObs : public Observer {
 public:
     float t = 0, h = 0, p = 0;
-    void Update(float temp, float hum, float pres) override {
-        t = temp; h = hum; p = pres;
-    }
+void Update(float temp, float hum, float pres) override {
+    t = temp; h = hum; p = pres;
+}
 };
 
 int main() {
